@@ -1,0 +1,6 @@
+---
+:tddium:
+  :ruby_version: ruby-1.9.2
+  :test_pattern:
+    - 'features/**.feature'
+
